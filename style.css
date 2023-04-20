@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 1;
+  padding: 20 ;
+  background-color: #395 ;
+}
+
+body {
+  font-family: Optima;
+  font-size: 20px;
+  line-height: 1.5;
+  color: #830;
+}
+
+nav {
+  background-color: #395;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+ 
